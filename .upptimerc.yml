@@ -31,12 +31,12 @@ status-website:
   cname: status.easy4live.com
   # baseUrl: /upptime
   logoUrl: https://easy4live.com/assets/img/favicon.png
-  name: Status Easy4Live
+  name: Easy4Live Status
   introTitle: "**Easy4Live Status** is the uptime monitor and status page"
   introMessage:  Our status page uses a **real-time** data from our [Easy4Live](https://easy4live.com) servers.
   navbar:
     - title: Main Page
-      href: /
+      href: https://status.easy4live.com/
 
 i18n:
   footer: This page is [open source]($REPO)
