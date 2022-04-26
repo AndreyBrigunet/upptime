@@ -36,7 +36,7 @@ status-website:
   introMessage:  Our status page uses a **real-time** data from our [Easy4Live](https://easy4live.com) servers.
   navbar:
     - title: Main Page
-      href: https://status.easy4live.com/
+      href: https://easy4live.com/
 
 i18n:
   footer: This page is [open source]($REPO)
