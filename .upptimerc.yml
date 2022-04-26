@@ -38,5 +38,8 @@ status-website:
     - title: Main Page
       href: /
 
+i18n:
+  footer: This page is [open source]($REPO)
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
