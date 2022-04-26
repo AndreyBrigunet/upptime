@@ -14,6 +14,10 @@ sites:
     url: http://go.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: RTMP Go.Easy4Live.com
     check: "tcp-ping"
     url: 94.158.245.100
