@@ -13,9 +13,13 @@ sites:
   - name: Go.Easy4Live.com
     url: http://go.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
-    method: GET
     maxResponseTime: 30000
-
+  - name: RTMP Go.Easy4Live.com
+    check: "tcp-ping"
+    url: 94.158.245.100
+    port: 1935
+    icon: https://easy4live.com/assets/img/favicon.png
+    maxResponseTime: 30000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
