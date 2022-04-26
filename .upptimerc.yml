@@ -11,7 +11,7 @@ sites:
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
   - name: Go.Easy4Live.com
-    url: https://go.easy4live.com
+    url: http://go.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     method: GET
     maxResponseTime: 30000
