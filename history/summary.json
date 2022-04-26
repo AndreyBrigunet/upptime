@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2153,
-    "timeDay": 2153,
-    "timeWeek": 2153,
-    "timeMonth": 2153,
-    "timeYear": 2153,
+    "time": 2181,
+    "timeDay": 2181,
+    "timeWeek": 2181,
+    "timeMonth": 2181,
+    "timeYear": 2181,
     "dailyMinutesDown": {}
   },
   {
     "name": "Go.Easy4Live.com",
-    "url": "https://go.easy4live.com",
+    "url": "http://go.easy4live.com",
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "go-easy4-live-com",
     "status": "down",
-    "uptime": "0.21%",
-    "uptimeDay": "0.21%",
-    "uptimeWeek": "0.21%",
-    "uptimeMonth": "0.21%",
-    "uptimeYear": "0.21%",
-    "time": 781,
-    "timeDay": 781,
-    "timeWeek": 781,
-    "timeMonth": 781,
-    "timeYear": 781,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 646,
+    "timeDay": 646,
+    "timeWeek": 646,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-04-26": 22
+      "2022-04-26": 25
     }
   }
 ]
