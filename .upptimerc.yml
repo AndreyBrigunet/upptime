@@ -10,17 +10,17 @@ sites:
     url: https://easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 50000
-  - name: Go-US.Easy4Live.com
-    url: http://go-us.easy4live.com
+  - name: Go.Easy4Live.com
+    url: http://go.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: RTMP Go-US.Easy4Live.com
+  - name: RTMP Go.Easy4Live.com
     check: "tcp-ping"
-    url: 94.158.244.23
+    url: 185.225.17.60
     port: 1935
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
