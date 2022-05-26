@@ -13,7 +13,7 @@ sites:
   - name: Go.Easy4Live.com
     url: http://go.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
-    maxResponseTime: 30000
+    maxResponseTime: 30001
     expectedStatusCodes:
       - 200
       - 201
