@@ -20,7 +20,7 @@ sites:
       - 404
   - name: RTMP Go.Easy4Live.com
     check: "tcp-ping"
-    url: 185.225.17.60
+    url: 137.184.181.176
     port: 1935
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
