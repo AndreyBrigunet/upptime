@@ -6,15 +6,15 @@
     "slug": "easy4-live-com",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "99.48%",
     "time": 3663,
-    "timeDay": 4517,
-    "timeWeek": 5084,
-    "timeMonth": 5090,
-    "timeYear": 3829,
+    "timeDay": 5299,
+    "timeWeek": 5180,
+    "timeMonth": 5112,
+    "timeYear": 3835,
     "dailyMinutesDown": {
       "2023-07-31": 19,
       "2023-07-30": 79,
@@ -47,8 +47,7 @@
       "2022-08-29": 65,
       "2022-08-27": 137,
       "2022-08-23": 212,
-      "2022-08-14": 127,
-      "2022-08-02": 17
+      "2022-08-14": 127
     }
   },
   {
@@ -63,8 +62,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 127,
-    "timeWeek": 147,
+    "timeDay": 203,
+    "timeWeek": 163,
     "timeMonth": 142,
     "timeYear": 159,
     "dailyMinutesDown": {
@@ -83,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 53,
-    "timeDay": 4,
-    "timeWeek": 37,
+    "timeDay": 65,
+    "timeWeek": 46,
     "timeMonth": 34,
     "timeYear": 42,
     "dailyMinutesDown": {
