@@ -8,13 +8,13 @@
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.93%",
-    "uptimeMonth": "98.97%",
+    "uptimeMonth": "99.03%",
     "uptimeYear": "99.49%",
-    "time": 3814,
-    "timeDay": 8970,
-    "timeWeek": 5999,
-    "timeMonth": 4857,
-    "timeYear": 3976,
+    "time": 3822,
+    "timeDay": 8444,
+    "timeWeek": 6267,
+    "timeMonth": 4920,
+    "timeYear": 3985,
     "dailyMinutesDown": {
       "2023-08-20": 208,
       "2023-08-13": 40,
@@ -64,13 +64,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 176,
-    "timeWeek": 175,
-    "timeMonth": 159,
+    "timeDay": 211,
+    "timeWeek": 176,
+    "timeMonth": 163,
     "timeYear": 160,
-    "dailyMinutesDown": {
-      "2022-08-26": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RTMP Go.Easy4Live.com",
@@ -84,13 +82,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 51,
-    "timeDay": 60,
+    "timeDay": 68,
     "timeWeek": 51,
-    "timeMonth": 41,
+    "timeMonth": 43,
     "timeYear": 42,
     "dailyMinutesDown": {
-      "2023-03-02": 28,
-      "2022-08-26": 21
+      "2023-03-02": 28
     }
   }
 ]
