@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.61%",
     "time": 4140,
     "timeDay": 7029,
     "timeWeek": 5022,
     "timeMonth": 3417,
-    "timeYear": 4378,
+    "timeYear": 4382,
     "dailyMinutesDown": {
       "2023-09-13": 17,
       "2023-09-04": 58,
@@ -50,9 +50,9 @@
     "url": "http://go.easy4live.com",
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "go-easy4-live-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +61,9 @@
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "RTMP Go.Easy4Live.com",
