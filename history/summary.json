@@ -64,8 +64,8 @@
     "slug": "go-easy4-live-com",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 169,
@@ -74,7 +74,6 @@
     "timeMonth": 319,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2023-12-04": 2,
       "2023-11-09": 15,
       "2023-10-27": 67
     }
