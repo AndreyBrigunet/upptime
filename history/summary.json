@@ -8,7 +8,7 @@
     "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.26%",
+    "uptimeMonth": "83.27%",
     "uptimeYear": "97.75%",
     "time": 5839,
     "timeDay": 2693,
@@ -83,18 +83,18 @@
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "rtmp-go-br-easy4-live-com",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 144,
     "timeDay": 114,
     "timeWeek": 142,
     "timeMonth": 144,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-12-14": 0
+      "2023-12-14": 2
     }
   }
 ]
