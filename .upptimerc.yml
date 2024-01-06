@@ -10,10 +10,10 @@ sites:
     url: https://easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 60000
-  - name: Go.Easy4Live.com
+  - name: go-br.easy4live.com
     url: http://go-br.easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
-    maxResponseTime: 30000
+    maxResponseTime: 40000
     expectedStatusCodes:
       - 200
       - 201
