@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "97.88%",
-    "time": 5978,
-    "timeDay": 3642,
-    "timeWeek": 3794,
-    "timeMonth": 4199,
+    "time": 5980,
+    "timeDay": 4953,
+    "timeWeek": 3840,
+    "timeMonth": 4251,
     "timeYear": 6455,
     "dailyMinutesDown": {
       "2024-07-09": 107,
@@ -42,8 +42,7 @@
       "2023-08-04": 16,
       "2023-07-31": 19,
       "2023-07-30": 79,
-      "2023-07-25": 26,
-      "2023-07-23": 32
+      "2023-07-25": 26
     }
   },
   {
@@ -53,14 +52,14 @@
     "slug": "go-br-easy4live-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "98.76%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.81%",
     "time": 410,
-    "timeDay": 361,
-    "timeWeek": 772,
-    "timeMonth": 477,
+    "timeDay": 275,
+    "timeWeek": 369,
+    "timeMonth": 475,
     "timeYear": 410,
     "dailyMinutesDown": {
       "2024-07-20": 18,
@@ -89,9 +88,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.00%",
     "time": 145,
-    "timeDay": 180,
-    "timeWeek": 156,
-    "timeMonth": 144,
+    "timeDay": 116,
+    "timeWeek": 153,
+    "timeMonth": 143,
     "timeYear": 145,
     "dailyMinutesDown": {
       "2024-07-07": 22,
