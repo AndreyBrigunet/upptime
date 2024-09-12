@@ -5,16 +5,16 @@
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "easy4-live-com",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "97.97%",
-    "time": 6272,
-    "timeDay": 3444,
-    "timeWeek": 3428,
-    "timeMonth": 3455,
-    "timeYear": 6266,
+    "time": 6265,
+    "timeDay": 3172,
+    "timeWeek": 3437,
+    "timeMonth": 3395,
+    "timeYear": 6241,
     "dailyMinutesDown": {
       "2024-09-06": 66,
       "2024-09-05": 4,
@@ -35,8 +35,7 @@
       "2023-11-11": 258,
       "2023-11-10": 558,
       "2023-11-09": 170,
-      "2023-11-08": 113,
-      "2023-09-13": 17
+      "2023-11-08": 113
     }
   },
   {
@@ -51,9 +50,9 @@
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.79%",
     "time": 404,
-    "timeDay": 398,
-    "timeWeek": 356,
-    "timeMonth": 374,
+    "timeDay": 322,
+    "timeWeek": 354,
+    "timeMonth": 369,
     "timeYear": 404,
     "dailyMinutesDown": {
       "2024-09-01": 199,
@@ -84,9 +83,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.16%",
     "time": 146,
-    "timeDay": 117,
+    "timeDay": 116,
     "timeWeek": 136,
-    "timeMonth": 150,
+    "timeMonth": 148,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2024-09-01": 88,
