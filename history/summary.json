@@ -14,7 +14,7 @@
     "timeDay": 2671,
     "timeWeek": 2773,
     "timeMonth": 3048,
-    "timeYear": 5504,
+    "timeYear": 5450,
     "dailyMinutesDown": {
       "2024-09-06": 66,
       "2024-09-05": 4,
@@ -39,9 +39,9 @@
     "url": "http://go-br.easy4live.com",
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "go-br-easy4live-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.81%",
@@ -51,6 +51,7 @@
     "timeMonth": 365,
     "timeYear": 403,
     "dailyMinutesDown": {
+      "2024-11-10": 0,
       "2024-10-31": 26,
       "2024-10-06": 45,
       "2024-09-01": 199,
