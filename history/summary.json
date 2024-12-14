@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.91%",
     "uptimeYear": "99.65%",
-    "time": 5163,
-    "timeDay": 1996,
-    "timeWeek": 1771,
-    "timeMonth": 2282,
-    "timeYear": 3562,
+    "time": 5157,
+    "timeDay": 2413,
+    "timeWeek": 1922,
+    "timeMonth": 2264,
+    "timeYear": 3561,
     "dailyMinutesDown": {
       "2024-11-21": 45,
       "2024-11-17": 36,
@@ -39,9 +39,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 396,
-    "timeDay": 223,
-    "timeWeek": 218,
-    "timeMonth": 328,
+    "timeDay": 237,
+    "timeWeek": 204,
+    "timeMonth": 321,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2024-10-31": 26,
@@ -68,16 +68,16 @@
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "rtmp-go-br-easy4-live-com",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 145,
-    "timeDay": 192,
-    "timeWeek": 165,
+    "timeDay": 176,
+    "timeWeek": 171,
     "timeMonth": 153,
-    "timeYear": 145,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2024-10-31": 24,
       "2024-09-01": 88,
@@ -92,8 +92,7 @@
       "2024-01-23": 33,
       "2024-01-21": 121,
       "2024-01-20": 49,
-      "2023-12-16": 43,
-      "2023-12-15": 1440
+      "2023-12-16": 43
     }
   }
 ]
