@@ -6,21 +6,29 @@ assignees:
   -  AndreyBrigunet
   
 sites:
-  - name: Easy4Live.com
+  - name: easy4Live.com
     url: https://easy4live.com
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 60000
-  - name: go-br.easy4live.com
-    url: http://go-br.easy4live.com
+  - name: tr-br.easy4.live
+    url: http://tr-br.easy4.live
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 40000
     expectedStatusCodes:
       - 200
       - 201
       - 404
-  - name: RTMP go-br.Easy4Live.com
+  - name: go-br.easy4.live
+    url: http://go-br.easy4.live
+    icon: https://easy4live.com/assets/img/favicon.png
+    maxResponseTime: 40000
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: rtmp go-br.easy4.live
     check: "tcp-ping"
-    url: 179.127.27.200
+    url: 216.238.109.159
     port: 1935
     icon: https://easy4live.com/assets/img/favicon.png
     maxResponseTime: 30000
