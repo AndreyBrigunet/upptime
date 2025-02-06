@@ -49,9 +49,9 @@
     "url": "http://go-br.easy4.live",
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "go-br-easy4-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,7 +60,9 @@
     "timeWeek": 312,
     "timeMonth": 324,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   },
   {
     "name": "rtmp go-br.easy4.live",
