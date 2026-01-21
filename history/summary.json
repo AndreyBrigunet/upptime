@@ -49,9 +49,9 @@
     "url": "http://go-br.easy4.live",
     "icon": "https://easy4live.com/assets/img/favicon.png",
     "slug": "go-br-easy4-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -61,6 +61,7 @@
     "timeMonth": 432,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2026-01-21": 0,
       "2025-06-27": 15,
       "2025-02-06": 25
     }
